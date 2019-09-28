@@ -1,0 +1,9 @@
+Hi guys,
+
+Relating to yesterday's launch of video -> mp4 tool, I've written another tool that converts image sequences into MP4!
+
+ImgSeq2Mp4 is a tool that converts image sequences inside a specific folder into MP4.
+
+Simply drag a folder from the explorer onto the a_imgSeq2mp4 icon on your launcher, and an MP4 file will be created at the same path as your folder.
+
+If the folder contains multiple unique sequence of images, a corresponding number of MP4 movies will be created for you!
